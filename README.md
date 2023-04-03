@@ -1,2 +1,2 @@
 # LearnGit
-Created a repository as part of learning process through google course
+Created a repository as part of a google course on git & github
